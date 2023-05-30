@@ -1,0 +1,71 @@
+header {
+  background-color:rgb(214, 18, 18) /* Set your desired background color here */
+  padding: 20px; /* Add some padding to the header for spacing */
+  text-align: center; /* Align the text in the center of the header */
+}
+
+h1 {
+  background-color:gray;
+}
+body {
+  background-image: url(https://w7.pngwing.com/pngs/491/422/png-transparent-blue-light-effect-background-radiation-light-effect-blue-glare-fantasy-light-effects-thumbnail.png); /* Replace 'path/to/image.jpg' with the actual path to your image */
+  background-repeat: no-repeat;
+  background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 248, 248);
+    }
+  
+  .jumbotron {
+    background-color: #f8f9fa;
+    padding: 50px;
+    margin-bottom: 30px; 
+  }
+  .lead
+  {
+    
+      background-image: url(https://images.unsplash.com/photo-1515940175183-6798529cb860?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FkZ2V0fGVufDB8fDB8fHww&w=1000&q=80); /* Replace 'path/to/image.jpg' with the actual path to your image */
+      background-repeat: no-repeat;
+      background-size: cover;
+    
+  }
+  
+  .product {
+    color: white;
+    background-color: rgb(4, 67, 70);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .product img {
+    width: 200px;
+  height: 200px; 
+  border: 1px solid #ccc; 
+  }
+  
+  .add-to-cart {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #0056b3;
+  }
+  
+  #cart-items {
+    color: rgb(7, 0, 0);
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #total {
+    color: rgb(8, 0, 0);
+    font-weight: bold;
+  }
+  
